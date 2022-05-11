@@ -48,7 +48,7 @@ parser.add_argument('--tlabelscale', type=float, default=9.0,
 					
 To load the existing model, the related parameter is:  
 parser.add_argument('--resume', type=str, default=None,
-                  help='checkpoints/model_15.pth') 
+                  help='checkpoints/model_15.pth')  
 ps: model_15.pth is trained on SJTU-PCQA with TID2013.
 
 Scripts
