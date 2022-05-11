@@ -28,6 +28,8 @@ Results
 Usage
 -----------
 
+demo.py will load the trained model and compute PLCC and SROCC on the testing set.  
+
 train.py is the main program. The explanations of some parameters are as below: 
 
 parser.add_argument('--batch_size', type=int, default=16,
