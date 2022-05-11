@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b045da8-8692-4ef7-93b6-ef5cc9a34e93" name="IT-PCQA">
+        <fileTransfer rootFolder="/home/lyp" accessType="SFTP" host="47.102.221.174" port="6000" sshConfigId="d2e0cb0b-433e-4744-9ef4-8d4d1c50d470" sshConfig="lyp@47.102.221.174:6000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
